@@ -1,2 +1,2 @@
 # Muzik-Botu-Altyapisi
-Müzik Botu Altyapısı
+Bu altyapı merlin#9999'a aittir
